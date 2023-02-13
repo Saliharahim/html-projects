@@ -1,0 +1,21 @@
+/* basic selectors
+ tag selector/idselector/class selector */
+
+ body{
+    background-color: black;
+ }
+
+ h1{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: underline;
+
+ }
+ #id_first{
+    color: yellow;
+    text-align: left;
+    text-decoration: none;
+ }
+ .brand{
+    color: green;
+ }
