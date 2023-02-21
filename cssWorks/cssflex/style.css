@@ -4,7 +4,11 @@
     background-color: aqua;
     height: 300px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    /* justify-content:flex-start;
+    justify-content:flex-end;
+    justify-content:space-around;
+    justify-content:space-between */
 }
 
 .child{

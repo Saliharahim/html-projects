@@ -1,0 +1,35 @@
+.row{
+    height: 200px;
+    border: px solid black;
+}
+
+.row-1,.row2{
+    width:80% ;
+    margin: auto;
+}
+
+.row-1{
+    background-color: rgb(87, 145, 145);
+}
+.row-4{
+    background-color: brown;
+}
+
+.row-2,.row-3{
+    width: 30%;
+}
+.row-2{
+    background-color: blue;
+}
+.row-3{
+    background-color: blueviolet;
+}
+
+@media screen and (max-width:750px) {
+    .row{
+            width: 80px;
+            margin: auto;
+            margin-top: 5px;
+    }
+   
+}
